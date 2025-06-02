@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://i.postimg.cc/W4cQByzK/github-header-image.png" alt="kaim-op banner" width="100%" />
-</p>
-
 <h1 align="center">Hey 👋 I'm Kaim-OP</h1>
 
 <p align="center">
