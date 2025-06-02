@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Kaim-OP</h1>
 
-<!--
-**kaim-op/kaim-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+👩‍💻 BCA Student 
+💻 Learning, building, evolving  
+🔧 Code • Create • Conquer
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Stats
+
+![kaim-op's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaim-op&show_icons=true&theme=tokyonight)
+
+---
+
+<p align="center"><i>Running on caffeine, chaos, and clean code.</i></p>
+
+
+
