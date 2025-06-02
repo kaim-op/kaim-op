@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://postimg.cc/hXMyxp9b" alt="kaim-op banner" width="100%" />
+  <img src="https://i.postimg.cc/W4cQByzK/github-header-image.png" alt="kaim-op banner" width="100%" />
 </p>
 
 <h1 align="center">Hey 👋 I'm Kaim-OP</h1>
