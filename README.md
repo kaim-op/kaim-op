@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://postimg.cc/hXMyxp9b" alt="kaim-op banner" width="100%" />
+</p>
+
 <h1 align="center">Hey 👋 I'm Kaim-OP</h1>
 
 <p align="center">
@@ -26,5 +30,15 @@
 
 <p align="center"><i>Running on caffeine, chaos, and clean code.</i></p>
 
+---
 
+### 📈 GitHub Stats
+
+![kaim-op's GitHub stats](https://github-readme-stats.vercel.app/api?username=kaim-op&show_icons=true&theme=tokyonight&border_radius=10)
+
+---
+
+### 🛠️ Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaim-op&layout=compact&theme=tokyonight)
 
