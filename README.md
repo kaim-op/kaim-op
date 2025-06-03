@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Scientist+in+the+making.;Code.+Create.+Conquer.;Dream+Big%2C+Build+Relentlessly.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=consistency+creates+the+masterpiece.;Code.+Create.+Conquer.;Dream+Big%2C+Build+Relentlessly.">
 </p>
 
 <h1 align="center">Hey 👋 I'm Kaim-OP</h1>
