@@ -28,22 +28,6 @@
 
 ---
 
-```
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kaim-op&theme=tokyonight&margin-w=10&margin-h=10&no-bg=true&no-frame=true" />
-</p>
----
-
-### 📅 Contribution Heatmap
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaim-op&theme=tokyo-night&hide_border=true&area=true" width="90%" />
-</p> 
-```
-
-
 ### 📊 GitHub Stats & Streaks
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaim-op&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
