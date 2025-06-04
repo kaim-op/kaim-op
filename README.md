@@ -38,8 +38,9 @@
 ### 📅 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaim-op&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaim-op&theme=tokyo-night&hide_border=true&area=true" width="90%" />
 </p>
+
 
 
 ### 📊 GitHub Stats & Streaks
