@@ -1,4 +1,5 @@
-<p align="center">
+  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kaim-op" />
+  <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Keep+showing+up.;Code.+Create.+Conquer.;Dream+Big%2C+Build+Relentlessly.">
 </p>
 
