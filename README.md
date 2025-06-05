@@ -1,17 +1,19 @@
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kaim-op" />
+<h1 align="center" >Hey 👋 I'm Kaim-OP</h1>
+<p align="right">  <img src="https://visitor-badge.laobi.icu/badge?page_id=kaim-op" /></p>
+
+<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/111427307/233221539-a20d37ea-23cb-48bc-b121-c8daf2cb3d87.gif">
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=21&width=550&height=45&lines=🌟+Welcome+to+my+coding+universe!+🚀)](https://git.io/typing-svg)
 
 
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=440&lines=Keep+showing+up.;Code.+Create.+Conquer.;Dream+Big%2C+Build+Relentlessly.">
-</p>
+I'm kaim, just a curious developer
 
-<h1 align="center">Hey 👋 I'm Kaim-OP</h1>
+👩‍💻 BCA Student </br>
+💻 Learning, building, evolving   </br>
+🔧 Code • Create • Conquer </br>
+🌈 Join me as I embark on this exciting journey, one line of code at a time.
 
-<p align="center">
-👩‍💻 BCA Student 
-💻 Learning, building, evolving  
-🔧 Code • Create • Conquer
-</p>
 
 ---
 
